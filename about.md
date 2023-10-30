@@ -1,7 +1,7 @@
-#IAta cateva informatii despre mine
+#  Cateva informatii despre mine
 
--sunt student la utcb 
--place se vb mult
--etc.
+- sunt student la utcb 
+- place se vb mult
+- etc.
 
 [home page](index.md)
