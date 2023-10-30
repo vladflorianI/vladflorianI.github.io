@@ -1,6 +1,6 @@
 # [Numele Tău]
 
-![total station image](/assets/img/statie_totala.jpg)
+![total station image](/assets/img/statie_ totala.jpg)
 
 [cauta mai multe aici](about.md)
 
