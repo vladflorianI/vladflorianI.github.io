@@ -1,6 +1,6 @@
 # [Numele Tău]
 
-! [total station image](/assets/img/statie totala.jpg)
+! [total station image](/assets/img/statie_totala.jpg)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
